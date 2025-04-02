@@ -30,7 +30,7 @@ const WelcomePage = () => {
         transition={{ duration: 0.5 }}
         className='z-20 flex gap-5'
       >
-        <a href="https://github.com/muhmedv" target='_blank'><button 
+        <a href="https://github.com/lil-de7k" target='_blank'><button 
         className="transition-all duration-300 border-3 border-sky-800 hover:bg-sky-950 hover:border-sky-950 text-gray-200 font-mono font-semibold px-4 py-1.5 text-3sm rounded-xl shadow-lg flex items-center gap-2 cursor-pointer">
           My GitHub
         </button></a>
